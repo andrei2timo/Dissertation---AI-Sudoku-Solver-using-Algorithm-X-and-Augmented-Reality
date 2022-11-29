@@ -96,38 +96,23 @@ python3 cli_main.py
 <img width="480" height="480" src="./.images/Demo/9.png">
 <br>Game won message<br><br>
 
-<img width="480" height="480" src="./.images/Demo/17.png">
+<img width="480" height="480" src="./.images/Demo/10.png">
 <br>Solving using the Solve Button<br><br>
 
-<img width="480" height="480" src="./.images/Demo/18.png">
-<br>Game Won<br><br>
-
-<img width="480" height="480" src="./.images/Demo/19.png">
+<img width="480" height="480" src="./.images/Demo/11.png">
 <br>Augmented Reality Option<br><br>
 
-<img width="560" height="480" src="./.images/Demo/20.png">
-<br>Augmented Reality Test: 4 X 4<br><br>
+<img width="480" height="480" src="./.images/Demo/12.png">
+<br>Augmented Reality Test: 9 X 9 puzzle 1 and solution<br><br>
 
-<img width="560" height="480" src="./.images/Demo/21.png">
-<br>Augmented Reality Test: 6 X 6<br><br>
+<img width="560" height="480" src="./.images/Demo/13.png">
+<br>Augmented Reality Test: 9 X 9 puzzle 2 and solution<br><br>
 
-<img width="560" height="480" src="./.images/Demo/22.png">
-<br>Augmented Reality Test: 8 X 8<br><br>
+<img width="560" height="480" src="./.images/Demo/14.png">
+<br>Augmented Reality Test: 9 X 9 puzzle 3 and solution<br><br>
 
-<img width="560" height="480" src="./.images/Demo/23.png">
-<br>Augmented Reality Test: 9 X 9<br><br>
-
-<img width="560" height="480" src="./.images/Demo/24.png">
-<br>Augmented Reality Test: 4 X 4<br><br>
-
-<img width="560" height="480" src="./.images/Demo/25.png">
-<br>Augmented Reality Test: 6 X 6<br><br>
-
-<img width="560" height="480" src="./.images/Demo/26.png">
-<br>Augmented Reality Test: 8 X 8<br><br>
-
-<img width="560" height="480" src="./.images/Demo/27.png">
-<br>Augmented Reality Test: 9 X 9<br><br>
+<img width="560" height="480" src="./.images/Demo/15.png">
+<br>Augmented Reality Test: Displaying error message<br><br>
 
 </p>
 
