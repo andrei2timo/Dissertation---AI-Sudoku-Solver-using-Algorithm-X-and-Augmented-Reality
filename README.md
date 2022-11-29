@@ -1,2 +1,2 @@
-# AI Sudoku-Solver using Algorithm X and Augmented Reality
- This repository contains the code and documentation for my dissertation project.
+# Dissertation---AI-Sudoku-Solver-using-Algorithm-X-in-forms-of-Dancing-Links-and-Augmented-Reality
+ 
