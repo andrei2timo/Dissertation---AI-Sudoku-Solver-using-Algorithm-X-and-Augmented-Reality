@@ -94,7 +94,7 @@ python3 cli_main.py
 <br>Playing the game and check if the user made any errors<br><br>
 
 <img width="480" height="480" src="./.images/Demo/9.png">
-<br>Start Playng the Game<br><br>
+<br>Game won message<br><br>
 
 <img width="480" height="480" src="./.images/Demo/17.png">
 <br>Solving using the Solve Button<br><br>
