@@ -91,28 +91,7 @@ python3 cli_main.py
 <br>Load from Camera: 9 X 9<br><br>
 
 <img width="480" height="480" src="./.images/Demo/8.png">
-<br>Succesfully Loaded<br><br>
-
-<img width="480" height="480" src="./.images/Demo/9.png">
-<br>Load from Camera: 8 X 8<br><br>
-
-<img width="480" height="480" src="./.images/Demo/10.png">
-<br>Succesfully Loaded<br><br>
-
-<img width="480" height="480" src="./.images/Demo/11.png">
-<br>Load from Camera: 6 X 6<br><br>
-
-<img width="480" height="480" src="./.images/Demo/12.png">
-<br>Succesfully Loaded<br><br>
-
-<img width="480" height="480" src="./.images/Demo/13.png">
-<br>Load from Camera: 4 X 4<br><br>
-
-<img width="480" height="480" src="./.images/Demo/14.png">
-<br>Succesfully Loaded<br><br>
-
-<img width="480" height="480" src="./.images/Demo/15.png">
-<br>When an invalid image is clicked<br><br>
+<br>Playing the game and check if the user made any errors<br><br>
 
 <img width="480" height="480" src="./.images/Demo/16.png">
 <br>Start Playng the Game<br><br>
