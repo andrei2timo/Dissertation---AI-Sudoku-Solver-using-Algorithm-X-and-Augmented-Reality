@@ -93,7 +93,7 @@ python3 cli_main.py
 <img width="480" height="480" src="./.images/Demo/8.png">
 <br>Playing the game and check if the user made any errors<br><br>
 
-<img width="480" height="480" src="./.images/Demo/16.png">
+<img width="480" height="480" src="./.images/Demo/9.png">
 <br>Start Playng the Game<br><br>
 
 <img width="480" height="480" src="./.images/Demo/17.png">
