@@ -29,7 +29,7 @@ The project uses <i>[Dancing Links](https://en.wikipedia.org/wiki/Dancing_Links)
 
 ## Installation -
 
-##### 1.  Installing Pytorch
+##### 1.  Install the necessary dependencies - Installing Pytorch
 
 Find the suitable pytorch release for your system [here](https://pytorch.org/get-started/locally/).
 
@@ -49,6 +49,29 @@ pip3 install -r requirements.txt
 or
 
 pip install -r requirements.txt
+```
+
+##### 3.  Clone the repository to your local machine:
+
+```
+git clone https://github.com/andrei2timo/Dissertation---AI-Sudoku-Solver-using-Algorithm-X-and-Augmented-Reality.git
+```
+
+##### 4.  Navigate to the cloned repository:
+
+```
+cd Dissertation---AI-Sudoku-Solver-using-Algorithm-X-and-Augmented-Reality
+```
+
+##### 5.  Run the code:
+
+```
+python3 main.py
+```
+If you want to solve a Sudoku puzzle from an image, add the image path as an argument when running the code:
+
+```
+python3 main.py path/to/image.jpg
 ```
 
 ## How to play -
